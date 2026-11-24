@@ -1,0 +1,17 @@
+From: morgan@example.com
+To: alex@example.com
+Date: Tue, 24 Nov 2026 10:15:00 -0600
+Subject: Re: Notes from the project meeting
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Hi Alex,
+
+Thanks for sharing the notes from yesterday's meeting. I reviewed the
+schedule and the proposed changes look good to me.
+
+I can update the draft this afternoon. Let me know if you would like me
+to clarify anything before our next meeting.
+
+Best,
+Morgan

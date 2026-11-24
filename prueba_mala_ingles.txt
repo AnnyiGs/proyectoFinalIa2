@@ -1,0 +1,15 @@
+From: offers@example.invalid
+To: reader@example.com
+Date: Tue, 24 Nov 2026 10:15:00 -0600
+Subject: Your exclusive reward expires today
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Congratulations!
+
+You have been selected to receive a complimentary premium gift.
+Claim your reward today before this limited offer expires.
+Click here to see the details and reserve your gift now:
+https://offers.example.invalid/reward
+
+Do not miss this exclusive opportunity!
